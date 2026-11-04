@@ -18,3 +18,5 @@ before the merge is processed.
 ## Variable
 
 - `NEAR_NETWORK` — defaults to `testnet`
+
+Oracle status: awaiting the first merged test pull request.
