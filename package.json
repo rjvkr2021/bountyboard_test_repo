@@ -1,0 +1,12 @@
+{
+  "name": "bountyboard-merge-oracle",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "mark-merged": "node scripts/mark-merged.mjs"
+  },
+  "dependencies": {
+    "near-api-js": "^7.0.0"
+  }
+}
